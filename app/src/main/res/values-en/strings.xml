@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_question">" Let's start the demo with a simple question. Answer honestly yes or no. Do you want to continue ?"</string>
+    <string name="answer_yes">Congratulations ! Let\'s move on to the next step.</string>
+    <string name="answer_no">What a pity, but I will still continue.</string>
+    <string name="answer_word_no">no</string>
+    <string name="answer_word_yes">yes</string>
+    <string name="back_from_silence">I am back</string>
+    <string name="change_lang_test">Language switching</string>
+    <string name="continue_reading">" To continue you must pay. Do not leave, it's a joke!"</string>
+    <string name="dictation">" Here is an example of voice dictation."</string>
+    <string name="dictation_start">" Tell me what you want me to write."</string>
+    <string name="dictation_stop">Here is the result</string>
+    <string name="end_demo">This completes the demonstration of my functions. Goodbye</string>
+    <string name="locale_error">This language is not yet supported</string>
+    <string name="next_sentence">" Let's jump to the next sentence."</string>
+    <string name="next_sentence_word">more</string>
+    <string name="next_text">Let\'s jump to the next text</string>
+    <string name="next_text_word">next</string>
+    <string name="partial_reading">" Now an example of partial reading of text."</string>
+    <string name="previous_sentence">Let\'s jump to the previous sentence</string>
+    <string name="previous_sentence_word">less</string>
+    <string name="previous_text">Back to the previous text</string>
+    <string name="previous_text_word">previous</string>
+    <string name="question_test">Question</string>
+    <string name="quit_word">quit</string>
+    <string name="resume_word">resume</string>
+    <string name="silence">ok I stop talking</string>
+    <string name="resume">I restart from the last sentence read</string>
+    <string name="stop_word">silence</string>
+    <string name="text_nav_test">Navigation</string>
+    <string name="quit">" What a shame, we were really a good team."</string>
+    <string name="read_text_1">" The text contains "</string>
+    <string name="read_text_2">" sentences. I will read only"</string>
+    <string name="read_text_test">Partial text reading</string>
+    <string name="write_test">Write a text</string>
+    <string name="voice_control">" And I also have the option of voice navigation"</string>
+    <string name="foreign_language_reading_failure">" It's not very understandable. Let's see if I can do better."</string>
+    <string name="foreign_language_reading">And to finish I can read in French.</string>
+    <string name="main_text">Created by</string>
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">Pasithea</string>
+    <string name="question_test">Question</string>
+    <string name="main_text">Développée par</string>
+    <string name="text_nav_test">Navigation</string>
+    <string name="write_test">Ecrire un texte</string>
+    <string name="change_lang_test">Changer le langage</string>
+    <string name="read_text_test">Lire une partie de texte</string>
+
+    <string name="start_question">Commençons la démo par une question simple. Répondez honnêtement par oui ou par non. Voulez-vous continuer ?</string>
+    <string name="answer_yes">Bravo ! Passons à l\'étape suivante.</string>
+    <string name="answer_no">Quel dommage, mais je vais quand même continuer.</string>
+    <string name="dictation">Voici un exemple de dictée vocale.</string>
+    <string name="partial_reading">Maintenant un exemple de lecture partielle de texte.</string>
+    <string name="voice_control">Et j\'ai aussi l\'option de navigation vocale</string>
+    <string name="foreign_language_reading">Et pour finir la lecture en anglais.</string>
+    <string name="foreign_language_reading_failure">Ce n\'est pas très compréhensible. Voyons si je peux faire mieux.</string>
+    <string name="end_demo">Cela termine la démonstration de mes fonctions. Au revoir</string>
+
+    <string name="previous_text">Retour vers le texte précédent.</string>
+    <string name="next_text">En avant vers le prochain texte.</string>
+    <string name="quit">Quel dommage, nous formions vraiment une bonne équipe.</string>
+    <string name="silence">ok je me tais.</string>
+    <string name="next_sentence">On continue à la prochaine phrase.</string>
+    <string name="previous_sentence">On reprend à la phrase précédente</string>
+    <string name="resume">On reprend à la dernière phrase lue</string>
+    <string name="back_from_silence">Me voilà de retour.</string>
+
+    <string name="read_text_1">Le texte contient </string>
+    <string name="read_text_2">" phrases. Je ne vais en lire que "</string>
+    <string name="read_text_3" translatable="false">%</string>
+    <string name="continue_reading">Pour continuer vous devez payer. Ne partez pas, c\'est une blague !</string>
+
+    <string name="dictation_start">Dites moi ce que vous voulez que j\'écrive.</string>
+    <string name="dictation_stop">Voici le résultat</string>
+
+    <string name="answer_word_yes">oui</string>
+    <string name="answer_word_no">non</string>
+
+    <string name="next_text_word">suivant</string>
+    <string name="previous_text_word">précédent</string>
+    <string name="quit_word">quitter</string>
+    <string name="resume_word">continue</string>
+    <string name="stop_word">silence</string>
+    <string name="next_sentence_word">suivante</string>
+    <string name="previous_sentence_word">précédente</string>
+
+    <string name="locale_error">Ce langage n\'est pas encore supporté</string>
+</resources>
